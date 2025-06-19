@@ -1,0 +1,14 @@
+body {
+  background-color: #fff0f5;
+}
+.product-img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+.review {
+  background-color: #f8f9fa;
+  border-left: 4px solid #0d6efd;
+  padding: 10px;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+}
